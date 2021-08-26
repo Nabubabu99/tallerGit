@@ -1,2 +1,3 @@
-c#
+C#
 Alto lenguaje
+Programamos en Visual Studios Community
